@@ -1,4 +1,4 @@
-# 2.7Convoluci-n_en_corazon
+# 2.7Convolucion_en_corazon
 Es la septima tarea del Segundo Parcial de mi materia de Análisis y Procesamiento de Imágenes
 
 Si existen filas d 0 a n, y columnas de 0 a m. Trabajar con las filas de 1 a n-1, y con las columnas de 1 a m-1.
